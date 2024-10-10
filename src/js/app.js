@@ -46,6 +46,7 @@ function initApp(){
     });  
 }
 
+
 document.getElementById("savePreferences").addEventListener("click", e => {
     e.preventDefault();
     const config = {
